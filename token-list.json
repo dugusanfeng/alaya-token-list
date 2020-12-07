@@ -6,36 +6,20 @@
   ],
   "tokens":[
     {
-      "chainId":201030,
-      "address":"atx19qg98cnzlnvtwlxg26rlte4cpanhh9hljeq4d7",
+      "chainId":201018,
+      "address":"atp1puenfq2mx4v7fdchc993v0lgmf9w2cp7jm0x7s",
       "name":"Alaya USDT",
       "symbol":"aUSDT",
       "decimals":6,
       "logoURI":"https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
     },
     {
-      "chainId":201030,
-      "address":"atx1xagzkctrf60hdr58uevhqlk0zl2p3mthdrguuk",
+      "chainId":201018,
+      "address":"atp180vrw27fkkdwq73t34k86ywdh4nadde8r3862u",
       "name":"Alaya ETH",
       "symbol":"aETH",
       "decimals":18,
       "logoURI":"https://assets.coingecko.com/coins/images/1065/thumb/ieth.png?1600765203"
-    },
-    {
-      "chainId":201030,
-      "address":"atx16k3dh488zan80069kaag96f5c5r6ta3tze8yus",
-      "name": "Dai",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
-    },
-    {
-      "chainId":201030,
-      "address":"atx1ra9ffh592l60jm2clmdf402j0f6095wqw3q5h8",
-      "name": "Mercedes",
-      "symbol": "mcd",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11796/thumb/mcb.png?1594355515"
     }
   ],
   "timestamp":"2020-11-25T03:00:52.239+00:00",
