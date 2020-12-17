@@ -7,7 +7,7 @@
   "tokens":[
     {
       "name": "Wrapped ATP",
-      "address": "atp1nxsg04rpajmrxs6zl8y0acfcc52h2zcy8jqw6e",
+      "address": "atp1khdytqr63arj0gj7dhgygj2j8pzd8685fgl5zu",
       "symbol": "WATP",
       "decimals": 18,
       "chainId": 201018,
@@ -15,7 +15,7 @@
     },
     {
       "chainId":201018,
-      "address":"atp1puenfq2mx4v7fdchc993v0lgmf9w2cp7jm0x7s",
+      "address":"atp1uk43m2y65ttjjr6phhl67v8e4ge2nx2gf25uq9",
       "name":"Alaya USDT",
       "symbol":"aUSDT",
       "decimals":6,
@@ -23,7 +23,7 @@
     },
     {
       "chainId":201018,
-      "address":"atp180vrw27fkkdwq73t34k86ywdh4nadde8r3862u",
+      "address":"atp15gvqr36c6v5nh6q96d24295g46gg4lpr0sa6ee",
       "name":"Alaya ETH",
       "symbol":"aETH",
       "decimals":18,
